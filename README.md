@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project Summary
+# Heart Disease Prediction Project Summary 
 
 In this machine learning project, we aim to predict the presence of heart disease in individuals using a dataset obtained from Kaggle. The dataset consists of various features such as age, sex, cholesterol levels, and more. Three machine learning algorithms, namely K Neighbors Classifier, Decision Tree Classifier, and Random Forest Classifier, are employed for predictive modeling.
 
